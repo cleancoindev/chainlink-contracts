@@ -48,5 +48,9 @@
     "flatten": "../tools/bin/flatten-ropsten",
     "test": "truffle test"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/opz/chainlink-contracts.git"
+  },
   "version": "0.6.3"
 }
